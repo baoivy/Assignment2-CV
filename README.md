@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 2
 
 This is the repository for the Assignment 2 : __High Pass Filter and Low Pass Filter__
 
